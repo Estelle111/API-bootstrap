@@ -1,0 +1,38 @@
+.container-fluid {
+    display: flex;
+    margin: auto;
+    margin-bottom: 20px;
+    max-width: 1600px;
+    min-width: 300px;
+    width: 95%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+}
+
+.div {
+    margin-bottom: 60px;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.text {
+    text-align: justify;
+}
+
+.img-responsive {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-align: center;
+}

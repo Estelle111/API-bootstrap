@@ -1,7 +1,0 @@
-curl -X POST \
--u "OahyH57OzP0Cn-l7UTML7nTghmTi83XI49zCP_dyjvRB:{OahyH57OzP0Cn-l7UTML7nTghmTi83XI49zCP_dyjvRB}" \
---header "Content-Type: audio/flac" \
---data-binary @/Desktop/audio-file.flac \
-"https://gateway-lon.watsonplatform.net/speech-to-text/api/v1/recognize"
-
-
