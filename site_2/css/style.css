@@ -1,0 +1,31 @@
+.page {
+  margin: auto;
+  max-width: 1400px;
+  min-width: 300px;
+  width: 100%;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.form img {
+  margin: 1%;
+}
+.form input {
+  margin: 1%;
+}
+.form button {
+  margin: 1%;
+}
+
+.bloc {
+  border: 1px solid grey;
+  border-radius: 10px;
+  background-color: #f7f7f7;
+  width: 20%;
+  height: auto;
+}
+
+/*# sourceMappingURL=style.css.map */

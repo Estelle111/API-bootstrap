@@ -1,0 +1,29 @@
+.page {
+    margin: auto;
+    max-width: 1400px;
+    min-width: 300px;
+    width: 100%;
+}
+
+.form {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    img {
+        margin: 1%;
+    }
+    input {
+        margin: 1%;
+    }
+    button {
+        margin: 1%;
+    }
+}
+
+.bloc {
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+    width: 20%;
+    height: auto;
+}
