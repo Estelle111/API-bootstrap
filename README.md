@@ -5,7 +5,7 @@
 ## site_2: [Wikipedia search](https://estelle111.github.io/API-bootstrap/site_2/)
 
 ### Description
-Practicing javascript and algorithms
+Make API's requests and design them with Bootstrap
 
 ### Tools
 * javascript
